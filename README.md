@@ -1,5 +1,4 @@
-![68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966](https://github.com/user-attachments/assets/7573ba30-c558-4348-a5bb-2a7d37adc53f)<h1 align="center">Hi 👋![image](https://github.com/user-attachments/assets/228af2a1-04c9-48a1-8603-fb84e5f853c8)
-, I'm Gowtham A V</h1>
+<h1 align="center">Hi 👋, I'm Gowtham A V</h1>
 <h3 align="center">A passionate Full-Stack developer👨🏻‍💻 from Bengalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=av-gowtham&label=Profile%20views&color=0e75b6&style=flat" alt="av-gowtham" /> </p>
