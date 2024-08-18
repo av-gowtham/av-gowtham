@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gowtham.av.dev@gmail.ocm**
 
-- 📄 Know about my experiences [linkedin.com/in/avgowtham](www.linkedin.com/in/avgowtham)
+- 📄 Know about my experiences [linkedin.com/in/avgowtham](https://www.linkedin.com/in/avgowtham)
 
 - ⚡ Fun fact **I am a volleyball player🏐**
 
