@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gowtham A V</h1>
+<h1 align="center">Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1660415347/60611/waving-hand.gif" width="25"/>, I'm Gowtham A V</h1>
 <h3 align="center">A passionate Full-Stack developer👨🏻‍💻 from Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=av-gowtham&label=Profile%20views&color=0e75b6&style=flat" alt="av-gowtham" /> </p>
